@@ -1,10 +1,10 @@
-site_name: 'ESIIL Working Group OASIS'
+site_name: 'ESIIL Fungal Dispersal Working Group OASIS'
 site_description: 'Central resource for ESIIL working groups'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Working_group_home
+site_author: Sarah Cuprewich
+site_url: https://cu-esiil.github.io/fungal_dispersal
 
 # Repository
-repo_name: Working-group-home
+repo_name: Fungal_dispersal-Working-group-home
 repo_url: https://github.com/CU-ESIIL/Working_group_oasis
 edit_uri: edit/main/docs/
 # Copyright
