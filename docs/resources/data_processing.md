@@ -3,6 +3,9 @@
 ## Overview
 Brief description of the data processing objectives and scope. Reminder to adhere to data ownership and usage guidelines.
 
+## ACCESS proposal
+Dispersal is a key mechanism driving the geographic distributions of species on Earth, but dispersal theory and methods are based primarily on macroorganisms with microbial dispersal paradigms emerging only recently. In fungi, numerous traits related to dispersal (e.g. spore traits, fruiting body traits, dispersal syndromes) are likely linked to fungal biogeographic patterns, but these hypotheses remain largely untested. We aim to harmonize fungal dispersal trait data with DNA sequence-based taxon occurrence data to test trait-based predictions regarding the dispersal capabilities of fungi across spatial scales. We will also assess the potential for fungal dispersal to buffer against range shifts predicted with global climate change. This work will contribute to our understanding of global fungal biodiversity and ecosystem function, as well as aid in predicting plant and human fungal disease outbreaks. Finally, we will integrate fungal dispersal models with global climate change predictions to assess the potential for fungal range shifts in a changing world.
+
 ## Data Sources
 List and describe data sources used, including links to cloud-optimized sources. Highlight permissions and compliance with data ownership guidelines.
 
