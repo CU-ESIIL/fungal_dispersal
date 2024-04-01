@@ -1,22 +1,33 @@
-# [Your Working Group Name]
+# Advancing fungal dispersal ecology through traits and data harmonization
 
-Welcome to the [Your Working Group Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our working group, hosting our project description, proposals, member bios, codebase, and more.
+Welcome to the **fungal dispersal** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
+Dispersal is a key mechanism driving the geographic distributions of species on Earth, but dispersal theory and methods are based primarily on macroorganisms with microbial dispersal paradigms emerging only recently. In fungi, numerous traits related to dispersal (e.g. spore traits, fruiting body traits, dispersal syndromes) are likely linked to fungal biogeographic patterns, but these hypotheses remain largely untested. We aim to harmonize fungal dispersal trait data with DNA sequence-based taxon occurrence data to test trait-based predictions regarding the dispersal capabilities of fungi across spatial scales. We will also assess the potential for fungal dispersal to buffer against range shifts predicted with global climate change. This work will contribute to our understanding of global fungal biodiversity and ecosystem function, as well as aid in predicting plant and human fungal disease outbreaks. Finally, we will integrate fungal dispersal models with global climate change predictions to assess the potential for fungal range shifts in a changing world.
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+## Documentation
+- Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
+- Find comprehensive guides, tutorials, and additional resources.
 
 ## Project Proposal
-
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+[Fungal Dispersal Working Group Proposal_11-1-23.pdf](https://github.com/CU-ESIIL/fungal_dispersal/files/14826675/Fungal.Dispersal.Working.Group.Proposal_11-1-23.pdf)
 
 ## Group Members
 
-[List the names and a brief description of each group member, possibly linking to their personal or professional web pages.]
+- **PI**: Dr. Bala Chaudhary, Dartmouth College.
+- **Co-PI**: Dr. Cameron Egan, University of Southern California.
+- **Co-PI**: Dr. Kabir Peay, Stanford University.
+- **Co-technical lead**: Dr. Carlos A. Aguilar-Trigueros, University of Jyväskylä.
+- **Co-technical lead**: Sarah Cuprewich, Dartmouth College.
+- **Member**: Dr. Michelle Afkhami, University of Miami.
+- **Member**: Dr. Priscilla Chaveri, Bowie State University.
+- **Member**: Dr. Jennifer Martiny, University of California-Irvine.
+- **Member**: Dr. Veera Norros, Finnish Environment Institute.
+- **Member**: Dr. Anne Pringle, University of Wisconsin-Madison.
+- **Member**: Dr. Adriana Romero-Olivares, New Mexico State University.
+- **Member**: Dr. Agnese Seminara, University of Genoa.
+- **Member**: Dr. Ryan Stephens, Eastern Tennessee State University.
 
-- **Member 1**: Brief description or role within the group.
-- **Member 2**: Brief description or role within the group.
-- ...
 
 ## Code Repository
 
