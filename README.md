@@ -37,7 +37,7 @@ Dispersal is a key mechanism driving the geographic distributions of species on 
   - Review and merge changes through pull requests for oversight.
 
 ## Getting Help
-- If you encounter any issues or have questions, please refer to the [ESIIL Support Page](https://esiil-support-page-url/) or contact the repository maintainers directly.
+- If you encounter any issues or have questions, please refer to the [ESIIL Support Page](https://esiil-support-page-url/) or contact the repository maintainers directly. https://cu-esiil.github.io/Postdoc_OASIS/resources/cyverse_hacks/
 
 ## Customize Your Repository
 - **Edit This Readme**: Update with information specific to your project.
