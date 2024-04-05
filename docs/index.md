@@ -51,7 +51,7 @@ We welcome contributions from all group members. To maintain the quality and int
 
 ## Getting Help
 
-If you encounter any issues or have questions about how to contribute, please refer to the [ESIIL Support Page](https://esiil.org/support) or contact the repository maintainers directly.
+If you encounter any issues or have questions about how to contribute, please refer to the [ESIIL Support Page](https://esiil.org/support) or contact the repository maintainers directly. https://cu-esiil.github.io/Postdoc_OASIS/resources/cyverse_hacks/
 
 ## Customize Your Repository
 
