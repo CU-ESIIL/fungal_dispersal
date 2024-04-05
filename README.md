@@ -18,6 +18,7 @@ Dispersal is a key mechanism driving the geographic distributions of species on 
 - Co-PI: Dr. Kabir Peay, Stanford University.
 - Co-technical lead: Dr. Carlos A. Aguilar-Trigueros, University of Jyväskylä.
 - Co-technical lead: Sarah Cuprewich, Dartmouth College.
+- And others!
 
 
 ## Repository Structure
