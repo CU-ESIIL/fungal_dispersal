@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/780491969.svg)](https://zenodo.org/doi/10.5281/zenodo.11167974)
+
 # Advancing fungal dispersal ecology through traits and data harmonization
 
 Welcome to the **fungal dispersal** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
