@@ -4,7 +4,7 @@ rm(list = ls()); gc()
 
 # Global fungi (as provided by Petr Baldrian on September 2024)
 
-Global_fungi <- readRDS("C://Users//caaguila//Documents//fungal_dispersal//data_synthesis//Global_Fungi_long_format.RDS")
+Global_fungi <- readRDS("C://Users//caaguila//Dropbox//ESIL_data//fungal_dispersal//data_synthesis//Global_Fungi_long_format.RDS")
 Global_fungi$species <- gsub("s__", "", Global_fungi$species)
 
 Global_fungi_s <- Global_fungi[c(1:1000),]
