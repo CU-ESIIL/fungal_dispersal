@@ -22,8 +22,33 @@ Dispersal is a key mechanism driving the geographic distributions of species on 
 - Co-technical lead: Sarah Cuprewich, Dartmouth College.
 - And others!
 
+## Data assemble
+
+We targeted two main sources of data: 
+
+1. Occurrence of fungi based on DNA based approaches (metabarcoding)
+
+we compiled data from three databases: global fungi, GSMC and GSSP. Based on this data we found very skewed sampling intensity at global scale
 ![Alt text](Figures/sampling_intensity.png)
-  
+
+Looking at each data location from each dataset:
+![Alt text](Figures/GF_data.png)
+
+![Alt text](Figures/GSMC_data.png)
+
+![Alt text](Figures/GSSP_data.png)
+
+
+2. Dispersal traits across described species of fungi
+
+The biggest dataset correspond to spore traits. Combining species occureences with spore size data, we obtained roughly 20-30% coverage
+
+![Alt text](Figures/spore_data_available.png)
+
+
+Correlating spores size to absolute spore range (measured as the maximum distance at which species are recorded), we found that large spore species in the phylum Ascomycota tend to have larger ranges (tests will follow)
+
+![Alt text](Figures/distances_spore_volume.png)
 
 
 ## Repository Structure
