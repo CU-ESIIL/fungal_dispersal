@@ -22,6 +22,9 @@ Dispersal is a key mechanism driving the geographic distributions of species on 
 - Co-technical lead: Sarah Cuprewich, Dartmouth College.
 - And others!
 
+![Alt text](Figures/sampling_intensity.png)
+  
+
 
 ## Repository Structure
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
