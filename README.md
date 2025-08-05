@@ -21,7 +21,7 @@ Dispersal is a key mechanism driving the geographic distributions of species on 
 - Co-technical lead: Dr. Carlos A. Aguilar-Trigueros, University of Jyväskylä.
 - Co-technical lead: Sarah Cuprewich, Dartmouth College.
 - Dr. Michelle Afkhami, University of Miami.
-- Kristin Barbour, UC Irvine.
+- Dr. Kristin Barbour, UC Irvine.
 - Dr. Priscila Chaveri, Bowie State University.
 - Dr. Veera Norros, Finnish Environment Institute.
 - Dr. Anne Pringle, University of Wisconsin Madison.
